@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">COVID-19 Symptoms - By Arga</string>
+    <string name="symptomps">Covid-19 Symptomps</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="covid_symptoms">Covid-19 Symptoms</string>
+    <string name="covid_symptom">Covid-19 Symptom</string>
+    <string name="auth_name">Arga Hutama</string>
+    <string name="call_name">Call Name</string>
+    <string name="auth_email">argahut@gmail.com</string>
+    <string name="auth_instagram">argahutama (click to open)</string>
+    <string name="copyright">Arga Hutama 2020</string>
+    <string name="about_me">I\'m interested to be a android developer. I wish my dream come true.\n\nMe: Smart, Analytical, Dynamic</string>
+    <string name="written_by">Written by</string>
+    <string name="about_mee">About Me</string>
+    <string name="full_name">Full Name</string>
+    <string name="short_auth_name">Arga</string>
+    <string name="address_jgj">Tahunan UH 3/137 Yogyakarta</string>
+    <string name="address">Address</string>
+    <string name="hobby">Hobby</string>
+    <string name="coding_gamimng_futsal">Coding, Gamimng, Futsal</string>
+    <string name="dob">DoB</string>
+    <string name="august_19th_1997">August 19th, 1997</string>
+    <string name="remarks">Remarks</string>
+    <string name="picture">Picture</string>
+    <string name="covid_19_cases_info">Covid-19 Cases Information</string>
+    <string name="who_covid_information">WHO Covid-19 Information</string>
+    <string name="email">E-mail</string>
+</resources>
